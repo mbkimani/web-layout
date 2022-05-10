@@ -1,0 +1,9 @@
+hero, footer - #1F2937
+
+hero main text - 48px extra-bold #F9FAF8'
+
+hero secondary text 18px #E5E7EB
+
+header logo text
+24px #F9FAF8
+
